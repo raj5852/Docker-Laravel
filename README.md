@@ -1,13 +1,3 @@
-# Install and Set Up Laravel with Docker Compose
-
-Setting up Laravel in the local environment with Docker using the LEMP stack that includes: Nginx, MySQL, PHP, and phpMyAdmin.
-
-## Why use Docker for Development
-
-- [x] Consistent development environment for the entire team.
-- [x] You don't need to install a bunch of language environments on your system.
-- [x] You can use different versions of the same programming language.
-- [x] Deployment is easy
 
 ## How to Install and Run the Project
 
@@ -39,12 +29,3 @@ Setting up Laravel in the local environment with Docker using the LEMP stack tha
 1. ```cd src```
 2. ```docker-compose exec app php artisan {your command}``` 
 
-## Medium
-
-https://medium.com/@hanieasemi/setting-up-a-laravel-local-environment-with-docker-7541ae170daf
-
-## YouTube 
-
-https://www.youtube.com/watch?v=6ANYowpB910
-
-https://www.youtube.com/watch?v=gZfCAIGsz_o
